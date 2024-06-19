@@ -24,7 +24,7 @@ notary-key:
   public-key-pem-path: "tlsn/notary-server/fixture/notary/notary.pub"
 
 logging:
-  level: DEBUG
+  level: TRACE
 
 authorization:
   enabled: false
